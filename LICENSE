@@ -1,0 +1,23 @@
+
+---
+
+# 🎥 Now make it TRULY insane (important)
+
+## 🔥 1. Replace the GIF
+
+Record your bot:
+- Open Discord  
+- Run `/ritual`  
+- Use:
+  - 🎥 OBS Studio  
+  - or Windows Game Bar  
+
+Convert to GIF using:
+- ezgif.com  
+
+Then upload GIF to repo or use:
+👉 :contentReference[oaicite:0]{index=0}
+
+Replace this:
+```md
+<img src="YOUR_GIF_LINK" width="600">
