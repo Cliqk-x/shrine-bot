@@ -1,23 +1,14 @@
+MIT License
 
----
+Copyright (c) 2026 Cliqk-x
 
-# 🎥 Now make it TRULY insane (important)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, subject to the following conditions:
 
-## 🔥 1. Replace the GIF
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Record your bot:
-- Open Discord  
-- Run `/ritual`  
-- Use:
-  - 🎥 OBS Studio  
-  - or Windows Game Bar  
-
-Convert to GIF using:
-- ezgif.com  
-
-Then upload GIF to repo or use:
-👉 :contentReference[oaicite:0]{index=0}
-
-Replace this:
-```md
-<img src="YOUR_GIF_LINK" width="600">
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
